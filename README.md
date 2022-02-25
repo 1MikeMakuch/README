@@ -1,6 +1,6 @@
 # My Repos
 
-Most of my career work has been all proprietary, so there's nothing here with any *'s. But there a a few things worth pointing out;
+Most of my career work has been all proprietary, so there is no "real" open source here with any *'s. But there are few things worth pointing out;
 
 * 2022/02 mqtt-load-test https://github.com/1MikeMakuch/mqtt-load-test
 This is a script for testing, experimenting with mqtt brokers. It allows you to create many mqtt clients for subscribe and publish. It uses either the mqtt or aws mqtt client modules.
