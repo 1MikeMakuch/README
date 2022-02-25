@@ -3,7 +3,7 @@
 Most of my career work has been all proprietary, so there is no "real" open source here with any *'s. But there are few things worth pointing out;
 
 * 2022/02 mqtt-load-test https://github.com/1MikeMakuch/mqtt-load-test
-This is a script for testing, experimenting with mqtt brokers. It allows you to create many mqtt clients for subscribe and publish. It uses either the mqtt or aws mqtt client modules.
+This is a script for testing, experimenting with mqtt. It allows you to create many mqtt clients for subscribe and publish. It uses either the mqtt or aws mqtt client modules. There is a short video explanation linked therein.
 
 * 2021/04 audioReview https://github.com/1MikeMakuch/audioReview
 This is a very simple Node/React/MySQL app. Allows users to listen to various digital audio files and make comments and likes and read the comments and likes by others. Shows my preference for clean and simple code.
