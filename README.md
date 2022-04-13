@@ -9,7 +9,7 @@ This is a script for testing, experimenting with mqtt. It allows you to create m
 This is a very simple Node/React/MySQL app. Allows users to listen to various digital audio files and make comments and likes and read the comments and likes by others. Shows my preference for clean and simple code.
 
 * 2007 Backtest
-I don't have this code in Github because there is a commercial lib used. But I have screenshots and verbiage describing it here: https://1mikemakuch.com/?p=93
+I don't have this code in Github because there is a commercial lib used. But I have screenshots and verbiage describing it here: https://1mikemakuch.com/Backtest
 It's written in C++/MFC.
 
 * 2001 muzikbrowzer https://github.com/1MikeMakuch/muzikbrowzer https://Muzikbrowzer.com
