@@ -2,6 +2,9 @@
 
 All of my career work has been proprietary, so there is no real open source here with any *'s. But there are few things worth pointing out;
 
+* 2024/02 node threads.js https://github.com/1MikeMakuch/threads.js
+Quick try out of new Nodejs worker_threads. Spins up threads to perform a cpu bound task, shows how increasing thread count improves performance, until it doesn't.
+
 * 2022/02 mqtt-load-test https://github.com/1MikeMakuch/mqtt-load-test
 This is a script for testing, experimenting with mqtt. It allows you to create many mqtt clients for subscribe and publish. It uses either the mqtt or aws mqtt client modules.
 
@@ -22,4 +25,4 @@ I coded in C/C++ for many years early in my career. This is a little utility I s
 I use shells (bash) a lot in my daily work flow for all kinds of things, including use of multiple pipes and filters from one command to another. This little C program simply looks for numbers in stdin and inserts commas into stdout for readability.
 
 * ~1997 cli_srv_speed_check https://github.com/1MikeMakuch/cli_srvr_speed_check
-Allows for measuring (albeit crudely) network throughput from host to host. Written in C++, used to build on Unixes and Windows.
+Simple network throughput measurement from host to host. Written in C++, used to build on Unixes and Windows.
