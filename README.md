@@ -1,6 +1,8 @@
 # My Repos
 
-All of my career work has been proprietary, so there is no real open source here with any *'s. But there are few things worth pointing out;
+All of my career work has been proprietary. You can see most of my contributions have been to private repos: https://github.com/1MikeMakuch
+
+But there are few things worth pointing out:
 
 * 2024/02 node threads.js https://github.com/1MikeMakuch/threads.js
 Quick try out of new Nodejs worker_threads. Spins up threads to perform a cpu bound task, shows how increasing thread count improves performance, until it doesn't.
